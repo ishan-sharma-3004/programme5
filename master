@@ -1,0 +1,14 @@
+# programme5
+find quotient and remainder
+#include<stdio.h
+void main()
+{
+int a,b,c,d;
+printf("enter dividend");
+scanf("%d",&a);
+printf("enter the divisor");
+scanf("%d",&b);
+c=a%b;
+printf("the remainder is %d",c);
+printf("the quostient is %d ",d);
+}
